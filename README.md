@@ -12,6 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .container {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 20px;
+        }
+        .item {
+            text-align: center; /* Align text and image horizontally */
+        }
+        .img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h4 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h3>
 
@@ -24,19 +45,24 @@ Here are some ideas to get you started:
 <p>I greatly enjoy working in collaborative environments where I can collaborate with multidisciplinary teams to come up with data-driven solutions. I am excited to explore opportunities where I can leverage my skills and contribute to innovative data-driven solutions.</p>
  
 Please feel free to reach out to me via email or on LinkedIn.
-<h4 align="left">LinkedIn &nbsp; Mail</h4>
-<p>
-    <a href="https://linkedin.com/in/naikaditya98" target="_blank" style="margin-right: 30px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" />
-    </a>
-    <a href="mailto:nayakaditya339@gmail.com" target="_blank">
-        <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
-    </a>
-</p>
+<div class="container">
+    <div class="item">
+        <h4>LinkedIN</h4>
+        <a href="https://linkedin.com/in/naikaditya98" target="_blank" style="margin-right: 30px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="30" />
+</a>
+    </div>
+    <div class="item">
+        <h4>Mail</h4>
+        </a>
+<a href="mailto:nayakaditya339@gmail.com" target="_blank">
+<img src="Img/mail.png" alt="Gmail" height="20" width="20" />
+</a>
+    </div>
+</div>
 
 <h3 align="left">Projects</h3>
 
-<p> </p>
+
 
 
 
