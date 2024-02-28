@@ -12,33 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .container {
-            display: flex;
-            justify-content: flex-start;
-            align-items: center;
-            gap: 20px;
-        }
-        .item {
-            text-align: center; /* Align text and image horizontally */
-        }
-        .img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
+<img src="Img/header.png" alt="Header"/>
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h4 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h3>
+<h5 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h5>
 
-<h4 align="left">About Me</h3>
+<h3 align="left">About Me</h3>
 
- <p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
+<p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
   
 <p>I am enthusiastic about using data-driven insights to solve challenging issues and drive meaningful change. I have a solid foundation in statistics, machine learning, and programming languages like Python and R. Throughout my academic journey, I have gained experience working with different kinds of datasets, developing my skills in data preprocessing, modeling, and visualization.</p>
   
@@ -48,7 +29,7 @@ Please feel free to reach out to me via email or on LinkedIn.
 <div class="container">
     <div class="item">
         <h4>LinkedIN</h4>
-        <a href="https://linkedin.com/in/naikaditya98" target="_blank" style="margin-right: 30px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="30" />
+        <a href="https://linkedin.com/in/naikaditya98" target="_blank" style="margin-right: 30px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="20" />
 </a>
     </div>
     <div class="item">
@@ -61,6 +42,8 @@ Please feel free to reach out to me via email or on LinkedIn.
 </div>
 
 <h3 align="left">Projects</h3>
+
+
 
 
 
