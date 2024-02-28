@@ -12,31 +12,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Passionate Data Science Graduate Ready to Contribute to Data-Driven Domains</h3>
+<h4 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h3>
 
-<h3 align="left">About Me</h3>
+<style> p {text-align: justify}</style>
 
-I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.  
-&nbsp;  
-I am enthusiastic about using data-driven insights to solve challenging issues and drive meaningful change. I have a solid foundation in statistics, machine learning, and programming languages like Python and R. Throughout my academic journey, I have gained experience working with different kinds of datasets, developing my skills in data preprocessing, modeling, and visualization.  
-&nbsp;  
-I greatly enjoy working in collaborative environments where I can collaborate with multidisciplinary teams to come up with data-driven solutions. I am excited to explore opportunities where I can leverage my skills and contribute to innovative data-driven solutions.  
-&nbsp;  
+<h4 align="left">About Me</h3>
+
+ <p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
+  
+<p>I am enthusiastic about using data-driven insights to solve challenging issues and drive meaningful change. I have a solid foundation in statistics, machine learning, and programming languages like Python and R. Throughout my academic journey, I have gained experience working with different kinds of datasets, developing my skills in data preprocessing, modeling, and visualization.</p>
+  
+<p>I greatly enjoy working in collaborative environments where I can collaborate with multidisciplinary teams to come up with data-driven solutions. I am excited to explore opportunities where I can leverage my skills and contribute to innovative data-driven solutions.</p>
+ 
 Please feel free to reach out to me via email or on LinkedIn.
 
 
-
-
 <h4 align="left">LinkedIn &nbsp; Mail</h4>
-<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" />  <span style="margin-right: 23px;"></span>
-  </a> 
+<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" /><span style="margin-right: 23px;"></span></a> 
 <a href="mailto:nayakaditya339@gmail.com" target="_blank">
 <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
 </a>
 </p>
+
+<h3 align="left">Projects</h3>
+
+<p> </p>
+
+
+
+
+
+
+
+
 
 
 
