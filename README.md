@@ -31,7 +31,8 @@ Please feel free to reach out to me via email or on LinkedIn.
 
 
 <h4 align="left">LinkedIn &nbsp; Mail</h4>
-<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" />   &nbsp; &nbsp;&nbsp;&nbsp;   </a> 
+<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" />  <span style="margin-right: 23px;"></span>
+  </a> 
 <a href="mailto:nayakaditya339@gmail.com" target="_blank">
 <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
 </a>
