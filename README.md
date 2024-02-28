@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 <p>I greatly enjoy working in collaborative environments where I can collaborate with multidisciplinary teams to come up with data-driven solutions. I am excited to explore opportunities where I can leverage my skills and contribute to innovative data-driven solutions.</p>
  
 Please feel free to reach out to me via email or on LinkedIn.
-
-
 <h4 align="left">LinkedIn &nbsp; Mail</h4>
-<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" /><span style="margin-right: 30px;"></span></a> 
-<a href="mailto:nayakaditya339@gmail.com" target="_blank">
-<img src="Img/mail.png" alt="Gmail" height="20" width="20" />
-</a>
+<p>
+    <a href="https://linkedin.com/in/naikaditya98" target="_blank" style="margin-right: 30px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" />
+    </a>
+    <a href="mailto:nayakaditya339@gmail.com" target="_blank">
+        <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
+    </a>
 </p>
 
 <h3 align="left">Projects</h3>
@@ -53,8 +54,8 @@ Please feel free to reach out to me via email or on LinkedIn.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaMN98/Projects](https://github.com/AdityaMN98/Projects)
 
-- 📫 How to reach me **adityamanjunathnaik@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
