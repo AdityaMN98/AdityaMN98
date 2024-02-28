@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h4 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h3>
 
-<style> p {text-align: justify}</style>
-
 <h4 align="left">About Me</h3>
 
  <p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
@@ -29,7 +27,7 @@ Please feel free to reach out to me via email or on LinkedIn.
 
 
 <h4 align="left">LinkedIn &nbsp; Mail</h4>
-<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" /><span style="margin-right: 23px;"></span></a> 
+<p>&nbsp;<a href="https://linkedin.com/in/naikaditya98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naikaditya98" height="20" width="40" /><span style="margin-right: 30px;"></span></a> 
 <a href="mailto:nayakaditya339@gmail.com" target="_blank">
 <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
 </a>
