@@ -34,7 +34,7 @@ Please feel free to reach out to me via email or on LinkedIn.
     <div class="item">
         <h4>Mail</h4>
         </a>
-<a href="mailto:nayakaditya339@gmail.com" target="_blank">
+<a href="mailto:adityamanjunathnaik@gmail.com" target="_blank">
 <img src="Img/mail.png" alt="Gmail" height="20" width="20" />
 </a>
     </div>
@@ -44,7 +44,7 @@ Please feel free to reach out to me via email or on LinkedIn.
 
 <p>Currently, I'm working on a recommendation system that leverages graph embeddings, employing techniques like GraphSAGE and node2vec. The objective is to understand the underlying structures and relationships within the recommendation system graph to deliver personalized recommendations to users. This builds upon prior project which uses bag of words and cosine similarity for providing a recommendation.
 
-In addition, I've worked on  various projects including sentiment analysis utilizing Hugging Face's RoBERTa model, as well as supervised techniques like regression and classification, along with unsupervised learning such as clustering. You can explore all my projects in the [Projects](https://github.com/AdityaMN98/Projects) repository. </p>
+In addition, I've worked on  various projects including sentiment analysis utilizing Hugging Face's RoBERTa model, as well as supervised techniques like regression and classification, along with unsupervised learning such as clustering. You can explore all my projects in the [Projects](https://github.com/AdityaMN98/Projects) repository.</p>
 
 <h3 align="left">Skills:</h3>
 <p>Python, R, MatLAB, Linear Algebra for Data Science, Statistics, Natural Language Processing, Machine Learning, Predictive Analytics, Data Analysis, Deep Learning, Data Visualization, Artificial Intelligence, Computer Vision, Excel for Data Analysis, Hadoop, Tableau, Apache Spark, Technical Communication, Problem Solving Skills</p>
