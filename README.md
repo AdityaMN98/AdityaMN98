@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 <img src="Img/header.png" alt="Header"/>
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h5 align="center">Passionate Data Science Graduate Ready to Contribute to Data Industry</h5>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 
 <p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
   
@@ -41,30 +40,14 @@ Please feel free to reach out to me via email or on LinkedIn.
     </div>
 </div>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Projects:</h3>
 
+<p>Currently, I'm working on a recommendation system that leverages graph embeddings, employing techniques like GraphSAGE and node2vec. The objective is to understand the underlying structures and relationships within the recommendation system graph to deliver personalized recommendations to users. This builds upon prior project which uses bag of words and cosine similarity for providing a recommendation.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on **graph embeddings based recommendation system**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AdityaMN98/Projects](https://github.com/AdityaMN98/Projects)
-
-
-
+In addition, I've worked on  various projects including sentiment analysis utilizing Hugging Face's RoBERTa model, as well as supervised techniques like regression and classification, along with unsupervised learning such as clustering. You can explore all my projects in the [Projects](https://github.com/AdityaMN98/Projects) repository. </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p>Python, R, MatLAB, Linear Algebra for Data Science, Statistics, Natural Language Processing, Machine Learning, Predictive Analytics, Data Analysis, Deep Learning, Data Visualization, Artificial Intelligence, Computer Vision, Excel for Data Analysis, Hadoop, Tableau, Apache Spark, Technical Communication, Problem Solving Skills</p>
+
+<h3 align="left">Interests:</h3>
+<p>Machine Learning, Reading, Technology, Artificial Intelligence</p>
