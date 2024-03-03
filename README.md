@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🚀 About Me:</h3>
 
 <p>I am a recent graduate who holds a Master's in Data Science from the State University of New York at Buffalo, complementing my Bachelor's in Electronics and Communication.</p>
   
@@ -48,6 +48,32 @@ In addition, I've worked on  various projects including sentiment analysis utili
 
 <h3 align="left">Skills:</h3>
 <p>Python, R, MatLAB, Linear Algebra for Data Science, Statistics, Natural Language Processing, Machine Learning, Predictive Analytics, Data Analysis, Deep Learning, Data Visualization, Artificial Intelligence, Computer Vision, Excel for Data Analysis, Hadoop, Tableau, Apache Spark, Technical Communication, Problem Solving Skills</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rstudio/75AADB" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width ='40' alt="sklearm">
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" width ='40' alt="seaborn"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
 
 <h3 align="left">Interests:</h3>
 <p>Machine Learning, Reading, Technology, Artificial Intelligence</p>
