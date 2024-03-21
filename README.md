@@ -47,7 +47,8 @@ Please feel free to reach out to me via email or on LinkedIn.
 In addition, I've worked on  various projects including sentiment analysis utilizing Hugging Face's RoBERTa model, as well as supervised techniques like regression and classification, along with unsupervised learning such as clustering. You can explore all my projects in the [Projects](https://github.com/AdityaMN98/Projects) repository.</p>
 
 <h3 align="left">Skills:</h3>
-<p>Python, R, MatLAB, Linear Algebra for Data Science, Statistics, Natural Language Processing, Machine Learning, Predictive Analytics, Data Analysis, Deep Learning, Data Visualization, Artificial Intelligence, Computer Vision, Excel for Data Analysis, Hadoop, Tableau, Apache Spark, Technical Communication, Problem Solving Skills</p>
+
+`Python`, `R`, `MatLAB`, `Linear Algebra for Data Science`, `Statistics`, `Natural Language Processing`, `Machine Learning`, `Predictive Analytics`, `Data Analysis`, `Deep Learning`, `Data Visualization`, `Artificial Intelligence`, `Computer Vision`, `Excel for Data Analysis`, `Hadoop`, `Tableau`, `Apache Spark`, `Technical Communication`, `Problem Solving Skills`</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -76,4 +77,5 @@ In addition, I've worked on  various projects including sentiment analysis utili
 </div>
 
 <h3 align="left">Interests:</h3>
-<p>Machine Learning, Reading, Technology, Artificial Intelligence</p>
+
+`Machine Learning`, `Reading`, `Technology`, `Artificial Intelligence`
