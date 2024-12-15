@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello 👋
+### Hello 👋
 
 My name is Aditya, and I’m trained in data science, with keen interest in **Data Science**, **Machine Learning**, **AI**, and **Data Analysis**.
 
