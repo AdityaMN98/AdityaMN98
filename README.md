@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hello 👋
 
-My name is Aditya, and I’m trained in data science, with keen interest in **Data Science**, **Machine Learning**, **AI**, and **Data Analysis**.
+My name is Aditya, and I’m skilled in data science techniques, with keen interest in **Data Science**, **Machine Learning**, **AI**, and **Data Analysis**.
 
 ### 🚀 About Me:
 - 🎓 I recently graduated with a **Master's in Data Science** from **The State University of New York at Buffalo**.
